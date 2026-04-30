@@ -94,8 +94,6 @@ This makes the app useful not only before an event, but also during and after it
 
 ## Screenshots
 
-## Screenshots
-
 <p align="center">
   <img src="screenshots/today-view.png" width="180" alt="PrepMet Today View">
   <img src="screenshots/event-detail.png" width="180" alt="PrepMet Event Detail">
