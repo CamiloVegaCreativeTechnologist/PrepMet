@@ -94,15 +94,18 @@ This makes the app useful not only before an event, but also during and after it
 
 ## Screenshots
 
-![PrepMet Today View](screenshots/today-view.png)
+## Screenshots
 
-![PrepMet Event Detail](screenshots/event-detail.png)
+<p align="center">
+  <img src="screenshots/today-view.png" width="180" alt="PrepMet Today View">
+  <img src="screenshots/event-detail.png" width="180" alt="PrepMet Event Detail">
+  <img src="screenshots/search-view.png" width="180" alt="PrepMet Search View">
+</p>
 
-![PrepMet Widgets](screenshots/widgets.png)
-
-![PrepMet Widgets](screenshots/widgets2.png)
-
-![PrepMet Search View](screenshots/search-view.png)
+<p align="center">
+  <img src="screenshots/widgets.png" width="260" alt="PrepMet Widgets">
+  <img src="screenshots/widgets2.png" width="260" alt="PrepMet Widgets Large View">
+</p>
 
 ---
 
