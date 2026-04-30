@@ -86,7 +86,7 @@ This makes the app useful not only before an event, but also during and after it
 
 ---
 
-## App Overview
+## Demo
 
 [Watch the PrepMet Demo](https://www.youtube.com/shorts/WaumcFxUCi0)
 
